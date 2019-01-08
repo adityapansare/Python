@@ -19,6 +19,6 @@ https://www.python.org/about/
 
   - O'reilly Learning Python
 
-## Everyday Practise Questions 
+## Everyday Practice Questions 
   - [LeetCode](https://leetcode.com/problemset/all/)
   - [HackerRank](https://www.hackerrank.com/dashboard)
