@@ -18,3 +18,7 @@ https://www.python.org/about/
 ## Books
 
   - O'reilly Learning Python
+
+## Everyday Practise Questions 
+  - [LeetCode](https://leetcode.com/problemset/all/)
+  - [HackerRank](https://www.hackerrank.com/dashboard)
