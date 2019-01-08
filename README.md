@@ -15,6 +15,6 @@ https://www.python.org/about/
 ## Developer Tools
   - [PyCharm](http://www.jetbrains.com/pycharm/)
   
-## Python
+## Books
 
   - O'reilly Learning Python
